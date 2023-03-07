@@ -13,9 +13,9 @@ _Building a digital resume page using Streamlit and Python._
 ---
 
 ```
-- streamlit==1.19.0
-- streamlit-lottie==0.0.3
-- Pillow==9.4.0
+streamlit==1.19.0
+streamlit-lottie==0.0.3
+Pillow==9.4.0
 ```
 
 **Run the application.**
